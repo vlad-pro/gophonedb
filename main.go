@@ -60,6 +60,7 @@ func main() {
 	// id, err := insertPhone(db, "861234567890")
 	// must(err)
 	// fmt.Println("id=", id)
+	println("done")
 }
 
 func must(err error) {

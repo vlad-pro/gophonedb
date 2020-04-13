@@ -1,4 +1,4 @@
-module github.com/gophercises/normalize
+module github.com/vlad-pro/nubmernormalizer
 
 go 1.13
 
