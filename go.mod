@@ -1,4 +1,4 @@
-module github.com/vlad-pro/nubmernormalizer
+module github.com/vlad-pro/gophonedb
 
 go 1.13
 

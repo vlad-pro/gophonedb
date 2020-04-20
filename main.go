@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	phonedb "github.com/gophercises/normalize/db"
 	_ "github.com/lib/pq"
+	phonedb "github.com/vlad-pro/gophonedb/db"
 )
 
 const (
